@@ -1,1 +1,9 @@
 # abc
+用語の整理
+Github上のレポジトリからローカルにclone(保存)する。
+Pull Request用のBranchを作成する
+Cloneしたディレクトリを編集する
+ローカルでadd⇒commit、Githubへpushする
+Github上でPullRequestする
+Github上でMergeする
+確認
